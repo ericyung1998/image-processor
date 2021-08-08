@@ -1,7 +1,7 @@
 # image-processing
 
 COMP1022P - Introduction to Computing with Java: Assignment 1
-- Image processor application that includes image darkening, sharpening, bluring, rotating, and color channel masking functions.
+- Image processor application that includes image darkening, sharpening, bluring, rotating, and color channel masking functions
 
 <br>
 
